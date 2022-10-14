@@ -1,0 +1,9 @@
+[submodule "TD2_TP2"]
+	path = TD2_TP2
+	url = https://github.com/IgnacioPardo/TD2_TP2
+[submodule "TD2_TP1"]
+	path = TD2_TP1
+	url = https://github.com/IgnacioPardo/TD2_TP1
+[submodule "TD2_TP3"]
+	path = TD2_TP3
+	url = https://github.com/IgnacioPardo/TD2_TP3
